@@ -1,0 +1,13 @@
+{
+    "Ayush1001": {
+        "name": "Ayush",
+        "pin": "4321",
+        "balance": 900,
+        "transactions": [
+            "[+] Deposit : +1000",
+            "[-] Withdraw : -500",
+            "[+] Deposit : +100",
+            "[+] Deposit : +300"
+        ]
+    }
+}
