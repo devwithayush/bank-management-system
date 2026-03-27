@@ -85,25 +85,6 @@ bank-management-system/
 
 ---
 
-## 🧪 Example Output
-
-```
-***** Bank Management System *****
-1. Create New Account
-2. Login
-3. Exit
-Enter your choice: 1
-
-***** Create New Account *****
-Enter your name: Ayush
-Your account number: Ayush1001
-Enter 4 digit pin: 4321
-
-***** Account created successfully *****
-```
-
----
-
 ## 💡 How It Works
 
 1. **Account Creation**: Users create an account with a name, auto-generated account number, and a 4-digit PIN
